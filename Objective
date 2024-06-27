@@ -1,0 +1,7 @@
+The code finds the name of the USERPROFILE through OS module. And changes the directory to access the files on the desktop.
+Finds the hostname to serve the file in a particular port for secured sharing.
+Then finds the IP address of the system so that we can connect a particular device.
+The IP address is converted into the form of QR-code using the module pyqrcode for easy use.
+The generated image is hosted in a web browser.
+Once the device connected to the same network either scanned QR code or type the IP address can access the files of the system.
+
